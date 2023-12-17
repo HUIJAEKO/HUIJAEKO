@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HUIJAE KO</h1>
 <h3 align="center">I am a student who enjoys both exercise and programming.</h3>
 
-- 📝 My blog! <a href = "HUIJAEKO.github.io">
+- 📝 My blog! **HUIJAEKO.github.io**
 
 - 📫 Contact me! **xrhgmlwox@naver.com**
 
