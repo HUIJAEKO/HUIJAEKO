@@ -1,7 +1,5 @@
-<h1 align="left">Hi 👋, I'm HUIJAE KO</h1>
-<h3 align="left">I am a student who enjoys both exercise and programming.</h3>
+<h1 align="left">I'm HUIJAE KO👋</h1>
 
-- 📝 My blog! **HUIJAEKO.github.io**
 
 - 📫 Contact me! **xrhgmlwox@naver.com**
 
@@ -12,9 +10,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huijaeko&show_icons=true&locale=en&layout=compact" alt="huijaeko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huijaeko&show_icons=true&locale=en" alt="huijaeko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huijaeko&" alt="huijaeko" /></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox)](https://solved.ac/xrhgmlwox/)
 
