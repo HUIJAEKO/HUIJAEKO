@@ -1,7 +1,8 @@
-<h1 align="left">I'm HUIJAE KO👋</h1>
+# I'm HUIJAE KO👋
 
 
 📫 Contact me! **xrhgmlwox@naver.com**
+
 
 
 
