@@ -1,4 +1,4 @@
-# I'm HUIJAE KO 👋
+# I'm HUIJAE👋
 
 🎓 Mechanical Engineering student at Seoul National University of Science and Technology  
 💻 Minoring in IT Software Engineering  
