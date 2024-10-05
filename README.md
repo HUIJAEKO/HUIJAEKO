@@ -1,8 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fafafa,100:31c31d&height=120&text=Welcome👊&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Huijae </h2>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm Huijae👊 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🎓 Mechanical Engineering student at Seoul National University of Science and Technology<br>💻 Minoring in IT Software Engineering</div> 
     </div>
     <div align= "center">
