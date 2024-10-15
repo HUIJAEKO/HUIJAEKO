@@ -28,7 +28,7 @@
 <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: left;"> 🧑‍💻 My Life </h2> 
 </div>
-<div align="center">
+<div>
     <table>
         <thead>
             <tr>
