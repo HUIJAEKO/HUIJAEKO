@@ -1,19 +1,19 @@
-<div align= "center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Welcome%20to%20my%20github👋&animation=fadeIn&fontColor=000000&fontSize=40" />
 </div>
 
-<div style="text-align: left;"> 
+<div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍🎓 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         🛠️ Mechanical Engineering student at Seoul National University of Science and Technology<br>
         💻 Minoring in IT Software Engineering<br> 
-        🧑‍💻 My blog <a href=https://velog.io/@kohuijae/posts>velog.io/@kohuijae/posts</a> 
+        🧑‍💻 My blog <a href="https://velog.io/@kohuijae/posts">velog.io/@kohuijae/posts</a>
     </div> 
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> 
+<div style="text-align: center;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+    <div> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -25,33 +25,38 @@
     </div>
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 My Life </h2> <br> 
+<div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: left;"> 🧑‍💻 My Life </h2> 
+</div>
+<div align="center">
     <table>
         <thead>
             <tr>
-                <th style = "color: black;"></th>
-                <th style = "color: black;"></th>
-                <th style = "color: black;"></th>
+                <th style="text-align: center;">기간</th>
+                <th style="text-align: center;">활동내용</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td align="center">2024.09 ~ </td>
+                <td align="center">👊 Backend Member of the Google Developer Group at Seoul National University of Science and Technology 👊</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td align="center">2024.09-2022.09</td>
+                <td align="center">🏆 1st place at SNUSTHON, IT Club Union Hackathon of Seoul National University of Science and Technology 🏆</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td align="center">2024.07-2022.08</td>
+                <td align="center">🎑 Developed EMOJINIOUS, AI-based Image Guessing Game 🎇</td>
+            </tr>
+            <tr>
+                <td align="center">2023.10-2023.10</td>
+                <td align="center">🥈 Silver Medalist at the Seoul Judo Tournament 🥈</td>
+            </tr>
+            <tr>
+                <td align="center">2022.02-2022.03</td>
+                <td align="center">🥋 Captain of the Judo Club at Seoul National University of Science and Technology 🥋</td>
             </tr>
         </tbody>
     </table>
 </div>
-    
