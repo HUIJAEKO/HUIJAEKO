@@ -39,11 +39,11 @@
         <tbody>
             <tr>
                 <td align="center">2024.09 ~ </td>
-                <td align="center">👊 Backend Member of the Google Developer Group at Seoul National University of Science and Technology 👊</td>
+                <td align="center">👊 Backend Member of the Google Developer Group at Seoultech 👊</td>
             </tr>
             <tr>
                 <td align="center">2024.09-2022.09</td>
-                <td align="center">🏆 1st place at SNUSTHON, IT Club Union Hackathon of Seoul National University of Science and Technology 🏆</td>
+                <td align="center">🏆 1st place at SNUSTHON, IT Club Union Hackathon of Seoultech 🏆</td>
             </tr>
             <tr>
                 <td align="center">2024.07-2022.08</td>
