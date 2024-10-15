@@ -50,11 +50,11 @@
                 <td align="center">🎑 Developed EMOJINIOUS, AI-based Image Guessing Game 🎇<br> https://github.com/HUIJAEKO/Emojinious</td>
             </tr>
             <tr>
-                <td align="center">2023.10-2023.10</td>
+                <td align="center">2022.10-2022.10</td>
                 <td align="center">🥈 Silver Medalist at the Seoul Judo Tournament 🥈</td>
             </tr>
             <tr>
-                <td align="center">2022.02-2022.03</td>
+                <td align="center">2022.02-2023.03</td>
                 <td align="center">🥋 Captain of the Judo Club at Seoul National University of Science and Technology 🥋</td>
             </tr>
         </tbody>
