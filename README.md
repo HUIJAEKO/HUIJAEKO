@@ -42,11 +42,11 @@
                 <td align="center">👊 Backend Member of the Google Developer Group at Seoultech 👊<br>https://github.com/gdsc-seoultech/gdsc-seoultech.github.io</td>
             </tr>
             <tr>
-                <td align="center">2024.09-2022.09</td>
+                <td align="center">2024.09-2024.09</td>
                 <td align="center">🏆 1st place at SNUSTHON, IT Club Union Hackathon of Seoultech 🏆</td>
             </tr>
             <tr>
-                <td align="center">2024.07-2022.08</td>
+                <td align="center">2024.07-2024.08</td>
                 <td align="center">🎑 Developed EMOJINIOUS, AI-based Image Guessing Game 🎇<br> https://github.com/HUIJAEKO/Emojinious</td>
             </tr>
             <tr>
