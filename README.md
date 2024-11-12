@@ -54,7 +54,7 @@
                 <td align="center">🥈 Silver Medalist at the Seoul Judo Tournament 🥈</td>
             </tr>
             <tr>
-                <td align="center">2022.02-2023.03</td>
+                <td align="center">2022.02-2023.02</td>
                 <td align="center">🥋 Captain of the Judo Club at Seoul National University of Science and Technology 🥋</td>
             </tr>
         </tbody>
