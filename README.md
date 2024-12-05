@@ -25,38 +25,4 @@
     </div>
 </div>
 
-<div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: left;"> 🧑‍💻 My Life </h2> 
-</div>
-<div>
-    <table>
-        <thead>
-            <tr>
-                <th style="text-align: center;">기간</th>
-                <th style="text-align: center;">활동내용</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center">2024.09 ~ </td>
-                <td align="center">👊 Backend Member of the Google Developer Group at Seoultech 👊<br>https://github.com/gdsc-seoultech/gdsc-seoultech.github.io</td>
-            </tr>
-            <tr>
-                <td align="center">2024.09-2024.09</td>
-                <td align="center">🏆 1st place at SNUSTHON, IT Club Union Hackathon of Seoultech 🏆</td>
-            </tr>
-            <tr>
-                <td align="center">2024.07-2024.08</td>
-                <td align="center">🎑 Developed EMOJINIOUS, AI-based Image Guessing Game 🎇<br> https://github.com/HUIJAEKO/Emojinious</td>
-            </tr>
-            <tr>
-                <td align="center">2022.10-2022.10</td>
-                <td align="center">🥈 Silver Medalist at the Seoul Judo Tournament 🥈</td>
-            </tr>
-            <tr>
-                <td align="center">2022.02-2023.02</td>
-                <td align="center">🥋 Captain of the Judo Club at Seoul National University of Science and Technology 🥋</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+
