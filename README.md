@@ -63,6 +63,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox)](https://solved.ac/xrhgmlwox/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUIJAEKO&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HUIJAEKO)
 
 
