@@ -36,7 +36,7 @@
         </thead>
         <tbody>
             <tr>
-                <td align="center">2024.09 ~ </td>
+                <td align="center">2024.09-2025.06 </td>
                 <td align="center">👊 Backend Member of the Google Developer Group at Seoultech 👊<br>https://github.com/gdsc-seoultech/gdsc-seoultech.github.io</td>
             </tr>
             <tr>
