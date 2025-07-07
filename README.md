@@ -45,6 +45,10 @@
         </thead>
         <tbody>
             <tr>
+                <td align="center">2025.05-2025.06 </td>
+                <td align="center">📊 Developed Finsignt, SNS-based stock trading simulation platform 📊</td>
+            </tr>
+            <tr>
                 <td align="center">2024.11-2025.06 </td>
                 <td align="center">🔥 Zerobase 31st backend member 🔥</td>
             </tr>
