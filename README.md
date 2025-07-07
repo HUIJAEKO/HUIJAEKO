@@ -46,7 +46,8 @@
         <tbody>
             <tr>
                 <td align="center">2025.05-2025.06 </td>
-                <td align="center">📊 Developed Finsignt, SNS-based stock trading simulation platform 📊</td>
+                <td align="center">📊 Developed Finsignt, SNS-based stock trading simulation platform 📊<br> 
+                https://github.com/Backend31-team1/finsight-social</td>
             </tr>
             <tr>
                 <td align="center">2024.11-2025.06 </td>
