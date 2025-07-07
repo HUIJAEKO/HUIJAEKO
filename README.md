@@ -5,6 +5,7 @@
 <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍🎓 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
+        🤟 I love developing apps and platforms that provide real value to users<br>
         🛠️ Mechanical Engineering student at Seoul National University of Science and Technology<br>
         💻 Minoring in IT Software Engineering<br> 
         🧑‍💻 My blog <a href="https://velog.io/@kohuijae/posts">velog.io/@kohuijae/posts</a>
@@ -48,6 +49,11 @@
                 <td align="center">2025.05-2025.06 </td>
                 <td align="center">📊 Developed Finsignt, SNS-based stock trading simulation platform 📊<br> 
                 https://github.com/Backend31-team1/finsight-social</td>
+            </tr>
+            <tr>
+                <td align="center">2025.03- </td>
+                <td align="center">🗳️ developing a vote-based SNS platform 🗳️<br> 
+                https://github.com/HCILabSeoultech/vote-backend</td>
             </tr>
             <tr>
                 <td align="center">2024.11-2025.06 </td>
