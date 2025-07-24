@@ -47,37 +47,41 @@
         <tbody>
             <tr>
                 <td align="center">2025.05-2025.06 </td>
-                <td align="center">📊 Developed Finsignt, SNS-based stock trading simulation platform 📊<br> 
+                <td align="center">Developed Finsignt, SNS-based stock trading simulation platform<br> 
                 https://github.com/Backend31-team1/finsight-social</td>
             </tr>
             <tr>
                 <td align="center">2025.03- </td>
-                <td align="center">🗳️ developing a vote-based SNS platform 🗳️<br> 
+                <td align="center">developing a vote-based SNS platform<br> 
                 https://github.com/HCILabSeoultech/vote-backend</td>
             </tr>
             <tr>
+                <td align="center">2025.03- </td>
+                <td align="center"> HCILab Seoultech Member <br> 
+            </tr>
+            <tr>
                 <td align="center">2024.11-2025.06 </td>
-                <td align="center">🔥 Zerobase 31st backend member 🔥</td>
+                <td align="center">Zerobase 31st backend member</td>
             </tr>
             <tr>
             <tr>
                 <td align="center">2024.09-2025.06 </td>
-                <td align="center">👊 Backend Member of the Google Developer Group at Seoultech 👊<br>https://github.com/gdsc-seoultech/gdsc-seoultech.github.io</td>
+                <td align="center">Backend Member of the Google Developer Group at Seoultech<br>https://github.com/gdsc-seoultech/gdsc-seoultech.github.io</td>
             </tr>
                 <td align="center">2024.09-2024.09</td>
-                <td align="center">🏆 1st place at SNUSTHON, IT Club Union Hackathon of Seoultech 🏆</td>
+                <td align="center">1st place at SNUSTHON, IT Club Union Hackathon of Seoultech</td>
             </tr>
             <tr>
                 <td align="center">2024.07-2024.08</td>
-                <td align="center">🎑 Developed EMOJINIOUS, AI-based Image Guessing Game 🎇<br> https://github.com/HUIJAEKO/Emojinious</td>
+                <td align="center">Developed EMOJINIOUS, AI-based Image Guessing Game<br> https://github.com/HUIJAEKO/Emojinious</td>
             </tr>
             <tr>
                 <td align="center">2022.10-2022.10</td>
-                <td align="center">🥈 Silver Medalist at the Seoul Judo Tournament 🥈</td>
+                <td align="center">Silver Medalist at the Seoul Judo Tournament</td>
             </tr>
             <tr>
                 <td align="center">2022.02-2023.02</td>
-                <td align="center">🥋 Captain of the Judo Club at Seoul National University of Science and Technology 🥋</td>
+                <td align="center">Captain of the Judo Club at Seoul National University of Science and Technology</td>
             </tr>
         </tbody>
     </table>
