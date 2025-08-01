@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=000000&text=Hello,%20I'm%20HuikaeKo&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=000000&text=Hello,%20I'm%20Huikae%20Ko&fontSize=30"/>
 </div>
 
 <p align="center">
@@ -82,5 +82,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HUIJAEKO&show_icons=true&theme=tokyonight" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox" alt="Solved.ac Profile" />
 </p>
-
----
