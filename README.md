@@ -1,16 +1,9 @@
-<!-- 👋 헤더 인사 + 타이핑 + 명언 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=000000&text=Hello,%20I'm%20HuikaeKo&fontSize=30"/>
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Spring+Boot;Let's+build+together+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <p align="center">
@@ -24,9 +17,9 @@
 ## 👨‍🎓 About Me
 
   
-✨ I love developing apps and platforms that provide real value to users  
-🔧 Mechanical Engineering student at **Seoul National University of Science and Technology**  
-💻 Minoring in **IT Software Engineering**  
+✨ I love developing apps and platforms that provide real value to users</br>
+🔧 Mechanical Engineering student at Seoul National University of Science and Technology</br>
+💻 Minoring in IT Software Engineering</br>
 ✍️ My Blog: [velog.io/@kohuijae/posts](https://velog.io/@kohuijae/posts)
 
 </div>
