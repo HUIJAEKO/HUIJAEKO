@@ -63,7 +63,7 @@
 - 🥇 1st Place – SNUSTHON Hackathon 
 
 📌 **2024.07 – 2024.08**  
-- Developed <strong>EMOJINIOUS</strong> – AI-based Image Guessing Game  
+- Developed EMOJINIOUS – AI-based Image Guessing Game  
 - 🔗 <a href="https://github.com/HUIJAEKO/Emojinious">HUIJAEKO/Emojinious</a>
 
 🏆 **2022.10**  
