@@ -59,14 +59,14 @@
 - Backend Developer GDG Seoultech 
 - 🔗 <a href="https://github.com/gdsc-seoultech/gdsc-seoultech.github.io">gdsc-seoultech.github.io</a>
 
-🏆 **2024.09**  
+📌 **2024.09**  
 - 🥇 1st Place – SNUSTHON Hackathon 
 
 📌 **2024.07 – 2024.08**  
 - Developed EMOJINIOUS – AI-based Image Guessing Game  
 - 🔗 <a href="https://github.com/HUIJAEKO/Emojinious">HUIJAEKO/Emojinious</a>
 
-🏆 **2022.10**  
+📌 **2022.10**  
 - 🥈 Silver Medal – Seoul Judo Tournament
 
 📌 **2022.02 – 2023.02**  
