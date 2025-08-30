@@ -29,50 +29,26 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,elasticsearch,redis" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,elasticsearch,docker,aws,github,githubactions" />
 </p>
 
 ---
 
-## 🧑‍💻 My Activity Timeline
+## 🧑‍💻 Activity Timeline
 
-📌 **2025.05 – 2025.06**  
-- Developed Finsight – SNS-based Stock Trading Simulation Platform Using MSA architecture  
-- 🔗 <a href="https://github.com/Backend31-team1/finsight-social">Backend31-team1/finsight-social</a>  
+| 기간 | 활동 |
+|------|------|
+| 2025.05 – 2025.06 | Developed Finsight – SNS-based Stock Trading Simulation Platform (MSA architecture) |
+| 2025.03 – Present | Developing VoteY – Vote-based SNS Platform |
+| 2025.03 – Present | Member of HCILab SeoulTech (HCI, AI, Backend Infrastructure Research) |
+| 2024.11 – 2025.06 | Completed Zerobase 31st Backend Course (Spring Boot, Redis, Docker, AWS) |
+| 2024.09 – 2025.06 | Backend Developer at GDG SeoulTech |
+| 2024.09 | 1st Place – SNUSTHON Hackathon |
+| 2024.07 – 2024.08 | Developed Emojinious – AI-based Image Guessing Game |
+| 2022.10 | Silver Medal – Seoul Judo Tournament |
+| 2022.02 – 2023.02 | Captain of Judo Club, SeoulTech |
 
-📌 **2025.03 – Present**  
-- Developing a Vote-based SNS Platform
-- 🔗 <a href="https://github.com/HCILabSeoultech/vote-backend">HCILabSeoultech/vote-backend</a>
 
-📌 **2025.03 – Present**  
--  HCILab SeoulTech Member  
--  Researching HCI, AI, and Backend infrastructure
-
-📌 **2024.11 – 2025.06**  
-- Zerobase 31st Backend Course
-- Advanced Spring Boot, Redis, Docker, AWS
-
-📌 **2024.09 – 2025.06**  
-- Backend Developer GDG Seoultech 
-- 🔗 <a href="https://github.com/gdsc-seoultech/gdsc-seoultech.github.io">gdsc-seoultech.github.io</a>
-
-📌 **2024.09**  
-- 🥇 1st Place – SNUSTHON Hackathon 
-
-📌 **2024.07 – 2024.08**  
-- Developed EMOJINIOUS – AI-based Image Guessing Game  
-- 🔗 <a href="https://github.com/HUIJAEKO/Emojinious">HUIJAEKO/Emojinious</a>
-
-📌 **2022.10**  
-- 🥈 Silver Medal – Seoul Judo Tournament
-
-📌 **2022.02 – 2023.02**  
-- Captain of Judo Club at SeoulTech  
-
-</div>
 
 ---
 
@@ -81,4 +57,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HUIJAEKO&show_icons=true&theme=tokyonight" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox" alt="Solved.ac Profile" />
+</p>
+
+---
+
+## 💡 Languages I Use Most
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIJAEKO&layout=compact&theme=radical" />
 </p>
