@@ -55,14 +55,7 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HUIJAEKO&show_icons=true&theme=tokyonight" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox" alt="Solved.ac Profile" />
-</p>
-
----
-
-## 💡 Languages I Use Most
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIJAEKO&layout=compact&theme=radical" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox" alt="Solved.ac Profile" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HUIJAEKO&show_icons=true&theme=tokyonight" />
 </p>
