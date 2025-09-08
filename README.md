@@ -40,8 +40,8 @@
 |------|------|
 | 2025.05 – 2025.06 | Developed Finsight – SNS-based Stock Trading Simulation Platform (MSA architecture) |
 | 2025.03 – Present | Developing VoteY – Vote-based SNS Platform |
-| 2025.03 – Present | Member of HCILab SeoulTech (HCI, AI, Backend Infrastructure Research) |
-| 2024.11 – 2025.06 | Completed Zerobase 31st Backend Course (Spring Boot, Redis, Docker, AWS) |
+| 2025.03 – Present | Member of HCILab SeoulTech |
+| 2024.11 – 2025.06 | Completed Zerobase 31st Backend Course |
 | 2024.09 – 2025.06 | Backend Developer at GDG SeoulTech |
 | 2024.09 | 1st Place – SNUSTHON Hackathon |
 | 2024.07 – 2024.08 | Developed Emojinious – AI-based Image Guessing Game |
