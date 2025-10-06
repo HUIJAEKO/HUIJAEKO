@@ -41,7 +41,7 @@
 | 2025.07 – Present | Developing Spoony |
 | 2025.05 – 2025.06 | Developed Finsight – SNS-based Stock Trading Simulation Platform |
 | 2025.03 – Present | Developing VoteY – Vote-based SNS Platform |
-| 2025.03 – Present | Member of HCILab SeoulTech |
+| 2025.03 – Present | HCILab SeoulTech Member |
 | 2024.11 – 2025.06 | Completed Zerobase 31st Backend Course |
 | 2024.09 – 2025.06 | Backend Developer at GDG SeoulTech |
 | 2024.09 - 2025.06 | 1st Place – SNUSTHON Hackathon |
