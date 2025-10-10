@@ -59,7 +59,7 @@
 - **2024.09 – 2025.06**  
   Backend Developer at GDG SeoulTech
 
-- **2024.09 – 2025.06**  
+- **2024.09 – 2024.09**  
   1st Place – SNUSTHON Hackathon
 
 - **2024.07 – 2024.08**  
