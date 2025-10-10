@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Spring+Boot;Let's+build+together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=100000000&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Spring+Boot" alt="Static SVG" />
+
 </p>
 
 <p align="center">
