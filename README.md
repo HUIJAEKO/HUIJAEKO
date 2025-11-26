@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=100000000&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Spring+Boot" alt="Static SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=100000000&center=true&vCenter=true&width=800&lines=Backend+Developer" alt="Static SVG" />
 
 </p>
 
@@ -25,9 +25,7 @@
 
 </div>
 
-<p align="left">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtzdG8xc3I5eW5mbHJlZzJ0Y3JuZDExc3BpNWxuajNtMXlhZGE2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SX71qs3TDxVkvbLJ4o/giphy.gif" width="250"/>
-</p>
+
 
 ---
 
@@ -80,5 +78,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIJAEKO&layout=compact&theme=radical" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox" alt="Solved.ac Profile" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HUIJAEKO&show_icons=true&theme=tokyonight" />
 </p>
