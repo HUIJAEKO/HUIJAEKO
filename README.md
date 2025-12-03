@@ -54,13 +54,3 @@
 | 2022.10 | Silver Medal – Seoul Judo Tournament |
 | 2022.02 – 2023.02 | Captain of Judo Club, SeoulTech |
 
-
-
----
-
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIJAEKO&layout=compact&theme=radical" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xrhgmlwox" alt="Solved.ac Profile" />
-</p>
