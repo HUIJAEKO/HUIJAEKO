@@ -66,3 +66,9 @@
 - **1st Place – SNUSTHON Hackathon** (2024.09)
 
 - **Silver Medal – Seoul Judo Tournament** (2022.10)
+
+### 🧠 Problem Solving
+
+- <img src="https://img.shields.io/badge/Baekjoon-Tier%20%3A%20Gold%20III-%23f9c74f?style=flat-square"/>
+- <img src="https://img.shields.io/badge/Problems_Solved-800+-success?style=flat-square"/>
+
