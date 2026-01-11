@@ -59,9 +59,9 @@
 
 ### 🏅 Awards & Certifications
 
-- **정보처리기사** – (2025.12)
+- **정보처리기사** (2025.12)
 
-- **SQL Developer (SQLD)** – (2025.12)
+- **SQL Developer (SQLD)** (2025.12)
   
 - **1st Place – SNUSTHON Hackathon** (2024.09)
 
