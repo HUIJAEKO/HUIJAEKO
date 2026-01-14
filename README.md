@@ -34,6 +34,7 @@
 ## 🧑‍💻 Activity Timeline
 
 ### 🚀 Ongoing
+- **Shinhan Square Bridge Youth Hackathon 2nd** (2026.01 - Present)
 - **Developing Spoony** (2025.07 – Present)  
   Review-based authentic restaurant discovery platform
 
