@@ -38,10 +38,10 @@
 - **Developing Spoony** (2025.07 – Present)  
   Review-based authentic restaurant discovery platform
 
-- **Developing VoteY** (2025.03 – Present)  
+### 🏁 Completed
+- **Developed VoteY** (2025.03 – Present)  
   Vote-based SNS focusing on trustable data analysis
 
-### 🏁 Completed
 - **Developed Finsight** (2025.05 – 2025.06)  
   SNS-based stock trading simulation platform
   
