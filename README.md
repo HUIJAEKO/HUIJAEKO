@@ -40,7 +40,7 @@
   Review-based authentic restaurant discovery platform
 
 ### 🏁 Completed
-- **Developed VoteY** (2025.03 – Present)  
+- **Developed VoteY** (2025.03 – 2025.12)  
   Vote-based SNS focusing on trustable data analysis
 
 - **Developed Finsight** (2025.05 – 2025.06)  
